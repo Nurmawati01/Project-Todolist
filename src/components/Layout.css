@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500&display=swap');
+
+
+
+#judul1{
+    font-weight: bolder;
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#all1{
+    padding-left: 10px ;
+    padding-right: 10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 510px;
+    background-color: #379237;
+    font-family: 'Poppins', sans-serif;
+}
+
+#active1{
+    padding-left: 10px ;
+    padding-right: 10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    background-color: #379237;
+    font-family: 'Poppins', sans-serif;
+}
+
+#completed1{
+    padding-left: 10px ;
+    padding-right: 10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 10px;
+    background-color: #379237;
+    font-family: 'Poppins', sans-serif;
+}
+
+#input1{
+    width: 30%;
+    margin-left: 420px;
+    border-color: green;
+    font-family: 'Poppins', sans-serif;
+}
+
+#btnadd{
+    padding-left: 20px ;
+    padding-right: 20px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-weight: bolder;
+    font-size: small;
+    background-color: #0d730d;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ketika ukuran layar dibawah 1080, terapkan styling dibawah */
+@media (max-width: 1080px) {
+    #judul1{
+        font-weight: bolder;
+        margin-top: 50px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #all1{
+        padding-left: 10px ;
+        padding-right: 10px ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-left: 230px;
+        background-color: #379237;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #active1{
+        padding-left: 10px ;
+        padding-right: 10px ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-left: 10px;
+        background-color: #379237;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #completed1{
+        padding-left: 10px ;
+        padding-right: 10px ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-left: 10px;
+        background-color: #379237;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #input1{
+        width: 50%;
+        margin-left: 150px;
+        border-color: green;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #btnadd{
+        padding-left: 20px ;
+        padding-right: 20px ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        color: white;
+        font-weight: bolder;
+        font-size: small;
+        background-color: #0d730d;
+        font-family: 'Poppins', sans-serif;
+    }
+  }
+  
+  /* ketika ukuran layar dibawah 768, terapkan styling dibawah */
+  @media (max-width: 768px) {
+    #judul1{
+        font-weight: bolder;
+        margin-top: 50px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #all1{
+        padding-left: 10px ;
+        padding-right: 10px ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-left: 100px;
+        background-color: #379237;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #active1{
+        padding-left: 10px ;
+        padding-right: 10px ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-left: 10px;
+        background-color: #379237;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #completed1{
+        padding-left: 10px ;
+        padding-right: 10px ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-left: 10px;
+        background-color: #379237;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #input1{
+        width: 50%;
+        margin-left: 80px;
+        border-color: green;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #btnadd{
+        padding-left: 20px ;
+        padding-right: 20px ;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        color: white;
+        font-weight: bolder;
+        font-size: small;
+        background-color: #0d730d;
+        font-family: 'Poppins', sans-serif;
+    }
+  }

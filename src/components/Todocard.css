@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500&display=swap');
+
+
+#inputtext{
+    width: 50%;
+    margin-left: 340px;
+    background-color: #379237;
+    font-family: 'Poppins', sans-serif;
+}
+
+#text1{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+#text2{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+#save{
+    background-color: #7DCE13;
+}
+
+#edit{
+    background-color: #7DCE13;
+}
+
+#remove{
+    background-color: #E64848;
+}
+
+/* ketika ukuran layar dibawah 1080, terapkan styling dibawah */
+@media (max-width: 1080px) {
+    #inputtext{
+        width: 60%;
+        margin-left: 150px;
+        background-color: #379237;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #text1{
+        color: white;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #text2{
+        color: white;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #save{
+        background-color: #7DCE13;
+    }
+    
+    #edit{
+        background-color: #7DCE13;
+    }
+    
+    #remove{
+        background-color: #E64848;
+    }
+  }
+  
+  /* ketika ukuran layar dibawah 768, terapkan styling dibawah */
+  @media (max-width: 768px) {
+    #inputtext{
+        width: 60%;
+        margin-left: 85px;
+        background-color: #379237;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #text1{
+        color: white;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #text2{
+        color: white;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    #save{
+        background-color: #7DCE13;
+    }
+    
+    #edit{
+        background-color: #7DCE13;
+    }
+    
+    #remove{
+        background-color: #E64848;
+    }
+  }
